@@ -1,0 +1,14 @@
+C:\Users\schoo\OneDrive\Рабочий стол\VendApp\bin\Debug\net9.0\VendApp.exe
+C:\Users\schoo\OneDrive\Рабочий стол\VendApp\bin\Debug\net9.0\VendApp.deps.json
+C:\Users\schoo\OneDrive\Рабочий стол\VendApp\bin\Debug\net9.0\VendApp.runtimeconfig.json
+C:\Users\schoo\OneDrive\Рабочий стол\VendApp\bin\Debug\net9.0\VendApp.dll
+C:\Users\schoo\OneDrive\Рабочий стол\VendApp\bin\Debug\net9.0\VendApp.pdb
+C:\Users\schoo\OneDrive\Рабочий стол\VendApp\obj\Debug\net9.0\VendApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schoo\OneDrive\Рабочий стол\VendApp\obj\Debug\net9.0\VendApp.AssemblyInfoInputs.cache
+C:\Users\schoo\OneDrive\Рабочий стол\VendApp\obj\Debug\net9.0\VendApp.AssemblyInfo.cs
+C:\Users\schoo\OneDrive\Рабочий стол\VendApp\obj\Debug\net9.0\VendApp.csproj.CoreCompileInputs.cache
+C:\Users\schoo\OneDrive\Рабочий стол\VendApp\obj\Debug\net9.0\VendApp.dll
+C:\Users\schoo\OneDrive\Рабочий стол\VendApp\obj\Debug\net9.0\refint\VendApp.dll
+C:\Users\schoo\OneDrive\Рабочий стол\VendApp\obj\Debug\net9.0\VendApp.pdb
+C:\Users\schoo\OneDrive\Рабочий стол\VendApp\obj\Debug\net9.0\VendApp.genruntimeconfig.cache
+C:\Users\schoo\OneDrive\Рабочий стол\VendApp\obj\Debug\net9.0\ref\VendApp.dll
