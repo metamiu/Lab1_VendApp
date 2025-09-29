@@ -242,7 +242,7 @@ namespace VendApp
             if (!int.TryParse(input, out var value))
                 return false;
 
-            if (!Money.IsValidCoin(value))
+            if (!MoneyandCod.IsValidCoin(value))
                 return false;
 
             coin = value;
@@ -351,7 +351,7 @@ namespace VendApp
                 Console.WriteLine("Введи код для нового товара:");
                 string code = ConsoleUI.ReadTrimmed();
 
-                if (!Money.IsValidProductCode(code))
+                if (!MoneyandCod.IsValidProductCode(code))
                 {
                     Console.WriteLine("Код должен быть в формате: заглавная буква + цифры (например, A4, B12).");
                     continue;
@@ -425,7 +425,7 @@ namespace VendApp
     }
 
     
-    public static class Money 
+    public static class MoneyandCod 
     {
         private static readonly int[] Allowed = new[] { 10, 5, 2, 1 };
         private static readonly Regex CodeRegex = new(@"^[A-Z][0-9]+$", RegexOptions.Compiled);
