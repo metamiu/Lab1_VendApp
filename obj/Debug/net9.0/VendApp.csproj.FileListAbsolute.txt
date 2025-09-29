@@ -12,3 +12,4 @@ C:\Users\schoo\OneDrive\Рабочий стол\VendApp\obj\Debug\net9.0\refint\
 C:\Users\schoo\OneDrive\Рабочий стол\VendApp\obj\Debug\net9.0\VendApp.pdb
 C:\Users\schoo\OneDrive\Рабочий стол\VendApp\obj\Debug\net9.0\VendApp.genruntimeconfig.cache
 C:\Users\schoo\OneDrive\Рабочий стол\VendApp\obj\Debug\net9.0\ref\VendApp.dll
+C:\Users\schoo\OneDrive\Рабочий стол\VendApp\obj\Debug\net9.0\VendApp.sourcelink.json
