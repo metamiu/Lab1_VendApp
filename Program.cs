@@ -12,7 +12,7 @@ namespace VendApp
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
             var inventory = new Inventory();
-            // cтартовый набор 
+
             inventory.AddProduct(new Product("A1", "Трусы", 7, 7));
             inventory.AddProduct(new Product("A2", "Носки", 5, 3));
             inventory.AddProduct(new Product("A3", "Перчатки", 31, 2));
